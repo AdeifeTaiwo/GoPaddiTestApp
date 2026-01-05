@@ -272,7 +272,7 @@ fun PlannedTripHeaderBox() {
                     color = GoPaddiBlack100,
                     fontSize = 20.sp
                 ),
-                text = "Your Trips",
+                text = "Planned Trips",
                 fontWeight = FontWeight.W700
             )
 

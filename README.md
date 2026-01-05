@@ -14,13 +14,13 @@ trips, and book flights seamlessly.
 
 ## How to run the project
 
-Open the project via xcode after cloning it. 
+Open the project via Android Studio after cloning it. 
 
 Note: If you encounter an 'Unknown error,' it means you need to change the baseUrl.
 
 
 ### Steps to Change the Base URL
-- Visit https://beeceptor.com/crud-api/  to generate a new base Url for api/trip, make sure it ends with api/trip.
+- Visit https://beeceptor.com/crud-api/  to generate a new base Url for api/trips, make sure it ends with api/trip.
 - Open Constant.swift in the project and replace the old baseUrl with the new one.
 
 - Run the project again. You should no longer see any errors, and you should be able to create a trip that will automatically reflect on the Trip landing page.
@@ -28,10 +28,8 @@ Note: If you encounter an 'Unknown error,' it means you need to change the baseU
 
 ### Techniques and patterns used
 - MVVM with clean architecture concept
-- Coordinator pattern
+- Clean Architecture
 - DI
 
 ### External Packages used
-- Swinject
-- FSCalendar
-- Toast
+- ComposeCalendar

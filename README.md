@@ -17,12 +17,12 @@ trips, and book flights seamlessly.
 
 Open the project via Android Studio after cloning it. 
 
-Note: If you encounter an 'Unknown error,' it means you need to change the baseUrl.
+Note: If you encounter an error message like 'Something went wrong, Please Try again Later' or 'We encountered a problem while processing your request, Please Try again Later',  it means you need to change the baseUrl.
 
 
 ### Steps to Change the Base URL
 - Visit https://beeceptor.com/crud-api/  to generate a new base Url for api/trips, make sure it ends with api/trip.
-- Open Constant.swift in the project and replace the old baseUrl with the new one.
+- Open GoPaddiTestApi in the project and find a Companion Object called BASE_URL, and update it with the new one.
 
 - Run the project again. You should no longer see any errors, and you should be able to create a trip that will automatically reflect on the Trip landing page.
 

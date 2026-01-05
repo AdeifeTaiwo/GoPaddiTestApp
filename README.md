@@ -31,6 +31,7 @@ Note: If you encounter an 'Unknown error,' it means you need to change the baseU
 - MVVM with clean architecture concept
 - Clean Architecture
 - DI
+- Jetpack Compose
 
 ### External Packages used
 - ComposeCalendar

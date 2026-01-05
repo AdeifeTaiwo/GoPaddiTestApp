@@ -63,7 +63,7 @@ import kotlinx.coroutines.delay
 
 @OptIn(ExperimentalMaterialApi::class)
 @Composable
-fun HomeScreen(
+fun GoPaddiHomeScreen(
     navController: NavController,
     onCreateTrip: () -> Unit
 ) {
@@ -297,7 +297,7 @@ fun PlannedTripHeaderBox() {
 @Composable
 fun PreviewHomeScreen() {
     GoPaddiTestAppTheme {
-        HomeScreen(
+        GoPaddiHomeScreen(
             rememberNavController(),
             {
 

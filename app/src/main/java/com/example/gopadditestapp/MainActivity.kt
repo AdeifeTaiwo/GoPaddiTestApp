@@ -13,7 +13,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.gopadditestapp.navigation.RootNavigationGraph
-import com.example.gopadditestapp.presentation.homescreen.HomeScreen
 import com.example.gopadditestapp.ui.theme.GoPaddiTestAppTheme
 import dagger.hilt.android.AndroidEntryPoint
 

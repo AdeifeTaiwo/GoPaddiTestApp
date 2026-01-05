@@ -13,3 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+gradle/
+gradlew
+gradlew.bat
+/gradle/wrapper/caches/
+
+/app/src/google-services.json
+/.kotlin/errors

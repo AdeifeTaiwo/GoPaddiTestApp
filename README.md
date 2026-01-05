@@ -5,10 +5,10 @@ trips, and book flights seamlessly.
 
 <table>
   <tr>
-    <td><img src="https://github.com/AdeifeTaiwo/GoPaddiTestApp/blob/main/pic_0.png" width="200px" height="auto" hspace="20"/>
-    <td><img src="https://github.com/AdeifeTaiwo/GoPaddiTestApp/blob/main/pic_1.png" width="200px" height="auto" hspace="20"/>
-    <td><img src="https://github.com/AdeifeTaiwo/GoPaddiTestApp/blob/main/pic_2.png" width="200px" height="auto" hspace="20"/>
-<td><img src="https://github.com/AdeifeTaiwo/GoPaddiTestApp/blob/main/pic_3.png" width="200px" height="auto" hspace="20"/>
+    <td><img src="https://github.com/AdeifeTaiwo/GoPaddiTestApp/blob/main/pic_one.png" width="200px" height="auto" hspace="20"/>
+    <td><img src="https://github.com/AdeifeTaiwo/GoPaddiTestApp/blob/main/pic_two.png" width="200px" height="auto" hspace="20"/>
+    <td><img src="https://github.com/AdeifeTaiwo/GoPaddiTestApp/blob/main/pic_three.png" width="200px" height="auto" hspace="20"/>
+<td><img src="https://github.com/AdeifeTaiwo/GoPaddiTestApp/blob/main/pic_four.png" width="200px" height="auto" hspace="20"/>
   </tr>
 </table>
 
